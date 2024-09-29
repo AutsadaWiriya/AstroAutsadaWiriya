@@ -49,7 +49,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/profileDD.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'Autsada Wiriya',
-  bio: "Hi, I'm Aut.",
+  bio: "Hi, I'm Autsada Wiriya, a Computer Engineering student at Chiang Mai University. I'm passionate about technology and always eager to learn new things.",
   links: [
     // {
     //   name: 'Twitter',
