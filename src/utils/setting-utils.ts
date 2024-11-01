@@ -13,7 +13,8 @@ export function getDefaultHue(): number {
 }
 
 export function getHue(): number {
-  const stored = localStorage.getItem('hue')
+  // const stored = localStorage.getItem('hue')
+  const stored = '250'
   return stored ? Number.parseInt(stored) : getDefaultHue()
 }
 

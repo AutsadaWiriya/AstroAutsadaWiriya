@@ -1,7 +1,7 @@
 ---
 title: STDiO CTF 2024
 published: 2024-09-21
-tags: ["STDiO CTF", "CTF"]
+tags: ["STDiO CTF", "SEC Playground", "CTF"]
 category: Challenge CTF
 image: ./STDiO_CTF.png
 draft: false
