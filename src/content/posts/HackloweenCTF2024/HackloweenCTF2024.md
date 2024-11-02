@@ -14,7 +14,7 @@ draft: false
 ```
 👥 TEAM 👥
 Name: 👨🏼‍💻autsadawiriya
-Team: 🌑DarkMoon
+Team: 🌑LEGDAYISHELL
 Score: 🏆131
 Rank: 📈35
 ```
