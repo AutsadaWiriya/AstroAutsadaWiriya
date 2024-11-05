@@ -1,7 +1,7 @@
 ---
-title: Huntress Ctf 2024
+title: Huntress CTF 2024
 published: 2024-11-02
-description: "เข้าร่วมการแข่งขัน Huntress Ctf 2024"
+description: "เข้าร่วมการแข่งขัน Huntress CTF 2024"
 image: "./huntress-CTF-Logo.png"
 tags: ["CTF"]
 category: Challenge CTF
