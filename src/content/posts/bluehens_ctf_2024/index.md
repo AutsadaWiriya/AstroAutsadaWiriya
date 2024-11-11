@@ -16,22 +16,17 @@ draft: false
 🔹 89th place 🥉  
 🔹 1387 points 💪  
 
-🤖 **I'm autsadawiriya**  
-🔹 494 points 🎯  
-
----
-
 ### 🏅 **Members & Scores** 👾
 
 | **Username**    | **Score** 🏆 |
 |-----------------|-------------|
 | 0xKr1ts         | 523 🏅      |
-| autsadawiriya   | 494 🎯      |
+| ***autsadawiriya(me)***   | 494 🎯      |
 | Beam3876        | 0 ❌        |
 | ueaarthorn      | 370 🔥      |
 | kxrndy          | 0 ❌        |
 
-[View Scoreboard](https://bluehens.ctfd.io/scoreboard)
+[🔗 ViewScore](https://ctftime.org/event/2512)
 
 ---
 
