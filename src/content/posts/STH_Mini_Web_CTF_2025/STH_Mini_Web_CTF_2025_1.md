@@ -7,8 +7,6 @@ image: ./img.jpg
 draft: false
 ---
 
-# 🕵️‍♂️ เจาะระบบเว็บโจทย์การแข่งขัน CTF
-
 🔗 **เว็บไซต์โจทย์:** [https://web1.ctf.p7z.pw/](https://web1.ctf.p7z.pw/)
 
 🎯 **เป้าหมาย:**
