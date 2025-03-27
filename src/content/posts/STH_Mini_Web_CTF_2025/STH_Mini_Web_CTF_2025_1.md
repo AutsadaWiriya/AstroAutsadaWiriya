@@ -157,9 +157,9 @@ function debugFetchAllUsers() {
 
 -----
 
-### 🏴 5. ยกระดับสิทธิ์ด้วย JWT Token
+### 🏴 5. ยกระดับสิทธิ์ด้วย Cookie remember_me
 
-เมื่อกด **Remember Me** ระบบตั้งค่า Cookie `remember_me` ด้วย JWT:
+เมื่อกดดู Cookie จะเห็น `remember_me` :
 
 ```bash
 remember_me = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImI4MTk0M2JhLWQxYzUtNDk1YS04NDI3LTQ3MTFjMzkyNTZiZiJ9.Rlk_a69lx16hNhwn4nBfRxhiMGmEDoPIcxfr1_7JdH8
